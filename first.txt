@@ -1,2 +1,4 @@
 Gitレポジトリを作成
 基本的ワークフローを学ぶ
+・git add
+・git commit
