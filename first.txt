@@ -4,3 +4,4 @@ Gitレポジトリを作成
 ・git commit
 ・git rm
 ・git status
+・git diff
